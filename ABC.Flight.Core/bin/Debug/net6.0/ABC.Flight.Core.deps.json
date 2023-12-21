@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "ABC.Flight.Core/1.0.0": {
+        "dependencies": {
+          "ABC.Repository": "1.0.0"
+        },
+        "runtime": {
+          "ABC.Flight.Core.dll": {}
+        }
+      },
+      "ABC.Repository/1.0.0": {
+        "runtime": {
+          "ABC.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ABC.Flight.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ABC.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

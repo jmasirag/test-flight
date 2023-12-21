@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "4D66b14DgiUAjfIotmxFUKZJC9VyVXjQt1nNoCA9ojSQ3lSy+BGQxWIq08v42NJap5O5vM5Uc988Uh46byDB4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\JadelSH\\Source\\Repos\\test-flight\\FidsCodingAssignment\\FidsCodingAssignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\JadelSH\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\JadelSH\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\JadelSH\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\JadelSH\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\JadelSH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\JadelSH\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
